@@ -21,8 +21,15 @@ Please send the following information to `dn42@tms.im` or `@imtms(Telegram)` for
 
 ## Servers
 
-### HK
+### Hongkong
  - Endpoint: `hk.dn42.tms.im:(last 5 digits of your ASN)`
  - WireGuard public key: `KlZg3oOjQsaQ0dNkUgHCKyOqULw8+u+llo97X1w5mV4=`
  - DN42 IPv4: `172.23.31.1`
+ - Link-local IPv6: `fe80::0831`
+
+
+### Singapore
+ - Endpoint: `sg.dn42.tms.im:(last 5 digits of your ASN)`
+ - WireGuard public key: `KlZg3oOjQsaQ0dNkUgHCKyOqULw8+u+llo97X1w5mV4=`
+ - DN42 IPv4: `172.23.31.5`
  - Link-local IPv6: `fe80::0831`
