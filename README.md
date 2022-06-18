@@ -7,6 +7,10 @@ TMS DN42 Network details:
  - DN42 IPv6: `fd92:831:77ac::/48`
  - Domain: `tms.dn42`
 
+## Service
+
+ - Looking Glass [lg.dn42.tms.im](http://lg.dn42.tms.im)
+
 ## Peering
 
 We currently only accept WireGuard tunnels for peering. MP-BGP and extended next hop over a link-local IPv6 address are preferred.
