@@ -13,15 +13,14 @@ TMS DN42 Network details:
 
 ## Peering
 
-We currently only accept WireGuard tunnels for peering. MP-BGP and extended next hop over a link-local IPv6 address are preferred.
+We currently only accept WireGuard tunnels with MP-BGP and extended next hop over a link-local IPv6 address.
 
 Please send the following information to `dn42@tms.im` or `@imtms(Telegram)` for peering.
 
  - Your DN42 ASN
  - Your WireGuard endpoint.
  - Your WireGuard public key.
- - Your DN42 IPv4 addresses (for IPv4 peering)
- - Your Link-local address (for IPv6 peering)
+ - Your Link-local address.
 
 ## Servers
 
